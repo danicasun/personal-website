@@ -52,13 +52,11 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  &quot;Chicago high schooler among 6 area activists who will give young people a voice at global climate
-                  summit in Dubai&quot;
+                  &quot;Chicago high schooler among 6 area activists who will give young people a voice at global climate summit in Dubai&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                Featured as one of six Chicago-area activists representing young voices at the global climate summit in
-                Dubai.
+                Featured as one of six Chicago-area activists representing young voices at the global climate summit in Dubai.
               </p>
               <a
                 href="https://www.chicagotribune.com/2023/12/04/chicago-high-schooler-among-6-area-activists-who-will-give-young-people-a-voice-at-global-climate-summit-in-dubai/"
