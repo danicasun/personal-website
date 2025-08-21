@@ -70,7 +70,7 @@ export default function Press() {
 
           {/* Press Items Grid */}
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {pressItems.map((item, index) => (
+            {pressItems.map((item) => (
               <div
                 key={item.title}
                 className="bg-white border border-[#82B590] rounded-lg p-6 hover:shadow-md transition-shadow duration-300"

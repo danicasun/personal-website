@@ -21,7 +21,7 @@ export default function Writing() {
 
           {/* Articles Grid */}
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {articles.map((article, index) => (
+            {articles.map((article) => (
               <article
                 key={article.title}
                 className="bg-white border border-[#82B590] rounded-lg p-6 hover:shadow-md transition-shadow duration-300"
