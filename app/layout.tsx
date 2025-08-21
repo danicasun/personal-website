@@ -16,7 +16,12 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Danica Sun",
   description: "Climate activist, Stanford student, and advocate for environmental justice",
-    generator: 'v0.app'
+  generator: 'v0.app',
+  icons: {
+    icon: '/d-logo.png',
+    shortcut: '/d-logo.png',
+    apple: '/d-logo.png',
+  },
 }
 
 export default function RootLayout({
