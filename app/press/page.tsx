@@ -12,6 +12,35 @@ export default function Press() {
           <div className="space-y-12">
             <div className="border-l-2 border-[#82B590] pl-8">
               <div className="flex items-center gap-4 mb-4">
+                <span className="text-gray-600 text-sm">August 2025</span>
+                <span className="text-gray-400">•</span>
+                <span className="text-[#82B590] text-sm">USA Today</span>
+              </div>
+              <h3 className="text-2xl font-medium mb-4">
+                <a
+                  href="https://www.usatoday.com/story/money/2025/08/20/silicon-valley-tech-women-hacker-houses/85521246007/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#82B590] transition-colors"
+                >
+                  {"\"FoundHer House is make a splash in Silicon Valley\""}
+                </a>
+              </h3>
+              <p className="text-gray-600 mb-4">
+                Featured in national coverage of women in tech and Silicon Valley hacker house communities.
+              </p>
+              <a
+                href="https://www.usatoday.com/story/money/2025/08/20/silicon-valley-tech-women-hacker-houses/85521246007/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#82B590] hover:text-green-600 transition-colors"
+              >
+                Read article →
+              </a>
+            </div>
+
+            <div className="border-l-2 border-[#82B590] pl-8">
+              <div className="flex items-center gap-4 mb-4">
                 <span className="text-gray-600 text-sm">December 2023</span>
                 <span className="text-gray-400">•</span>
                 <span className="text-[#82B590] text-sm">FOX 32 Chicago</span>
@@ -52,11 +81,13 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  &quot;Chicago high schooler among 6 area activists who will give young people a voice at global climate summit in Dubai&quot;
+                  &quot;Chicago high schooler among 6 area activists who will give young people a voice at global
+                  climate summit in Dubai&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                Featured as one of six Chicago-area activists representing young voices at the global climate summit in Dubai.
+                Featured as one of six Chicago-area activists representing young voices at the global climate summit in
+                Dubai.
               </p>
               <a
                 href="https://www.chicagotribune.com/2023/12/04/chicago-high-schooler-among-6-area-activists-who-will-give-young-people-a-voice-at-global-climate-summit-in-dubai/"
@@ -114,7 +145,8 @@ export default function Press() {
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                Keynote address at the Parliament of the World&apos;s Religions Opening Climate Action Assembly in Chicago.
+                Keynote address at the Parliament of the World&apos;s Religions Opening Climate Action Assembly in
+                Chicago.
               </p>
               <a
                 href="https://parliamentofreligions.org/2023-chicago/danica-sun-addresses-the-climate-action-assembly/"
@@ -186,7 +218,8 @@ export default function Press() {
 
             <div className="mt-16 pt-8 border-t border-gray-200">
               <p className="text-gray-600 text-sm italic">
-                Not Linked: NBC Chicago News Segment, NPR Chicago Radio Interviews, the Daily Northwestern Article, the Chicago Sun-Times Article           
+                Not Linked: NBC Chicago News Segment, NPR Chicago Radio Interviews, the Daily Northwestern Article, the
+                Chicago Sun-Times Article
               </p>
             </div>
           </div>

@@ -23,10 +23,10 @@ export default function Writing() {
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                {"Most climate startups pitch themselves on impact. “We’ll cut emissions.” “We’ll save the planet.” The problem? That’s not why most people — or companies — change their behavior. Impact never has and never will be the strongest motivator for the scale of change we need.\n\nInstead, the most transformative climate solutions are hiding in plain sight. They’re not marketed as climate tech. They win customers because they’re simply better — faster, cheaper, easier.\n\nI call these “Secretly Climate” startups, and I believe they’re our best shot at solving the crisis in time."}
+                {"Most climate startups pitch themselves on impact. “We’ll cut emissions.” “We’ll save the planet.” The problem? That’s not why most people, or companies, change their behavior. Impact never has and never will be the strongest motivator for the scale of change we need.\n\nInstead, the most transformative climate solutions are hiding in plain sight. They’re not marketed as climate tech. They win customers because they’re simply better: faster, cheaper, easier.\n\nI call these “Secretly Climate” startups, and I believe they’re our best shot at solving the crisis in time."}
               </p>
               <a href="#" className="text-[#82B590] hover:text-green-600 transition-colors">
-                 Read More →
+                  Coming Soon →
               </a>
             </article>
 
