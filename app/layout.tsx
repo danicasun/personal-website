@@ -18,9 +18,15 @@ export const metadata: Metadata = {
   description: "Climate activist, Stanford student, and advocate for environmental justice",
   generator: 'v0.app',
   icons: {
-    icon: '/d-logo.png',
+    icon: [
+      { url: '/d-logo.png', type: 'image/png' },
+      { url: '/d-logo.png', sizes: '32x32', type: 'image/png' },
+      { url: '/d-logo.png', sizes: '16x16', type: 'image/png' },
+    ],
     shortcut: '/d-logo.png',
-    apple: '/d-logo.png',
+    apple: [
+      { url: '/d-logo.png', sizes: '180x180', type: 'image/png' },
+    ],
   },
 }
 
@@ -31,6 +37,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/png" sizes="32x32" href="/d-logo.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/d-logo.png" />
+        <link rel="shortcut icon" href="/d-logo.png" />
+        <link rel="apple-touch-icon" href="/d-logo.png" />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>{children}</body>
     </html>
   )
