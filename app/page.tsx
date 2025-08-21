@@ -26,7 +26,7 @@ export default function Home() {
                 </a>
                 .
               </p>
-              <p>I now study Computer Science + Energy Science & Engineering at Stanford.</p>
+              <p>I now study Computer Science + Energy Science &amp; Engineering at Stanford.</p>
               <p>I live and breathe climate, and have spent the past third of my life working in it.</p>
               <p>I grew up insanely shy, but climate change compelled me to find my voice.</p>
               <p>
@@ -51,7 +51,7 @@ export default function Home() {
                 , amongst other things.
               </p>
               <p>
-                I've{" "}
+                I&apos;ve{" "}
                 <a
                   href="/press"
                   target="_blank"
@@ -60,7 +60,7 @@ export default function Home() {
                 >
                   spoken
                 </a>{" "}
-                at the UN Climate Summit, at the Parliament of the World's Religions (alongside Jane Goodall, Nancy
+                at the UN Climate Summit, at the Parliament of the World&apos;s Religions (alongside Jane Goodall, Nancy
                 Pelosi, and António Guterres), and on national press.
               </p>
               <p>
@@ -88,20 +88,20 @@ export default function Home() {
                 at 13. Loved it so much I co-directed it at 16.
               </p>
               <p>
-                I'm currently most excited about energy tech and{" "}
+                I&apos;m currently most excited about energy tech and{" "}
                 <a
                   href="/writing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#82B590] hover:text-green-600 transition-colors"
                 >
-                  "Secretly Climate"
+                  &quot;Secretly Climate&quot;
                 </a>{" "}
                 startups.
               </p>
               <p>
-                I believe whatever you study or work in, you can use those tools to tackle the climate crisis. That's
-                why I'm leading{" "}
+                I believe whatever you study or work in, you can use those tools to tackle the climate crisis. That&apos;s
+                why I&apos;m leading{" "}
                 <a
                   href="https://www.stanfordclimateweek.com/"
                   target="_blank"

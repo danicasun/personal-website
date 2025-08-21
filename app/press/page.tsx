@@ -23,7 +23,7 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "FOX 32 Voices of Change: Danica Sun"
+                  &quot;FOX 32 Voices of Change: Danica Sun&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
@@ -52,13 +52,11 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "Chicago high schooler among 6 area activists who will give young people a voice at global climate
-                  summit in Dubai"
+                  &quot;Chicago high schooler among 6 area activists who will give young people a voice at global climate summit in Dubai&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                Featured as one of six Chicago-area activists representing young voices at the global climate summit in
-                Dubai.
+                Featured as one of six Chicago-area activists representing young voices at the global climate summit in Dubai.
               </p>
               <a
                 href="https://www.chicagotribune.com/2023/12/04/chicago-high-schooler-among-6-area-activists-who-will-give-young-people-a-voice-at-global-climate-summit-in-dubai/"
@@ -83,7 +81,7 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "Podcast Interview on Climate Action"
+                  &quot;Podcast Interview on Climate Action&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
@@ -103,7 +101,7 @@ export default function Press() {
               <div className="flex items-center gap-4 mb-4">
                 <span className="text-gray-600 text-sm">August 2023</span>
                 <span className="text-gray-400">•</span>
-                <span className="text-[#82B590] text-sm">Parliament of the World's Religions</span>
+                <span className="text-[#82B590] text-sm">Parliament of the World&apos;s Religions</span>
               </div>
               <h3 className="text-2xl font-medium mb-4">
                 <a
@@ -112,11 +110,11 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "Danica Sun Addresses the Climate Action Assembly"
+                  &quot;Danica Sun Addresses the Climate Action Assembly&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
-                Keynote address at the Parliament of the World's Religions Opening Climate Action Assembly in Chicago.
+                Keynote address at the Parliament of the World&apos;s Religions Opening Climate Action Assembly in Chicago.
               </p>
               <a
                 href="https://parliamentofreligions.org/2023-chicago/danica-sun-addresses-the-climate-action-assembly/"
@@ -141,7 +139,7 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "Chicago's youth takes part in global climate strike targeting fossil fuel funding"
+                  &quot;Chicago&apos;s youth takes part in global climate strike targeting fossil fuel funding&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
@@ -170,7 +168,7 @@ export default function Press() {
                   rel="noopener noreferrer"
                   className="hover:text-[#82B590] transition-colors"
                 >
-                  "Chicago youth protest against climate change in downtown rally"
+                  &quot;Chicago youth protest against climate change in downtown rally&quot;
                 </a>
               </h3>
               <p className="text-gray-600 mb-4">
