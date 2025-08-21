@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Danica Sun",
-  description: "Climate activist, Stanford student, and advocate for environmental justice",
+  description: "Climate activist, Stanford student, and advocate for environmental justice. Leading Stanford Climate Week, working on climate tech and energy tech startups, and part of the female hacker house movement in Silicon Valley.",
   generator: 'v0.app',
   keywords: [
     "Danica Sun",
@@ -23,12 +23,37 @@ export const metadata: Metadata = {
     "Stanford student",
     "environmental justice",
     "climate tech",
+    "energy tech",
+    "climate tech startups",
+    "energy tech startups",
+    "female hacker house",
+    "Silicon Valley",
+    "FoundHer House",
+    "Stanford ASES",
+    "Stanford Climate Week",
     "energy science",
     "computer science",
     "climate education",
     "youth leadership",
     "COP28",
-    "UN Climate Summit"
+    "UN Climate Summit",
+    "climate entrepreneurship",
+    "sustainable technology",
+    "green tech",
+    "renewable energy",
+    "grid infrastructure",
+    "energy storage",
+    "carbon reduction",
+    "environmental policy",
+    "climate policy",
+    "women in tech",
+    "women in climate",
+    "climate innovation",
+    "energy innovation",
+    "startup ecosystem",
+    "venture capital",
+    "climate investment",
+    "energy investment"
   ],
   authors: [{ name: "Danica Sun" }],
   creator: "Danica Sun",
@@ -39,21 +64,21 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://www.danicasun.com",
     siteName: "Danica Sun",
-    title: "Danica Sun - Climate Activist & Stanford Student",
-    description: "Climate activist, Stanford student, and advocate for environmental justice. Leading Stanford Climate Week and working on climate tech solutions.",
+    title: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
+    description: "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley. Expert in climate innovation and sustainable technology.",
     images: [
       {
         url: "/d-logo.png",
         width: 512,
         height: 512,
-        alt: "Danica Sun - Dark green D logo",
+        alt: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "Danica Sun - Climate Activist & Stanford Student",
-    description: "Climate activist, Stanford student, and advocate for environmental justice. Leading Stanford Climate Week and working on climate tech solutions.",
+    title: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
+    description: "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley.",
     images: ["/d-logo.png"],
     creator: "@danicasun",
   },
@@ -96,22 +121,85 @@ export default function RootLayout({
               "name": "Danica Sun",
               "url": "https://www.danicasun.com",
               "image": "https://www.danicasun.com/d-logo.png",
-              "description": "Climate activist, Stanford student, and advocate for environmental justice",
-              "jobTitle": "Climate Activist & Student",
+              "description": "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley.",
+              "jobTitle": "Climate Tech Entrepreneur & Student",
               "alumniOf": {
                 "@type": "Organization",
                 "name": "Stanford University"
               },
+              "affiliation": [
+                {
+                  "@type": "Organization",
+                  "name": "Stanford Climate Week",
+                  "role": "Leader"
+                },
+                {
+                  "@type": "Organization",
+                  "name": "Stanford ASES",
+                  "role": "Member"
+                },
+                {
+                  "@type": "Organization",
+                  "name": "FoundHer House",
+                  "role": "Resident",
+                  "description": "Female hacker house in Silicon Valley"
+                }
+              ],
               "knowsAbout": [
                 "Climate Change",
                 "Environmental Justice",
                 "Energy Science",
                 "Computer Science",
                 "Climate Tech",
-                "Youth Leadership"
+                "Energy Tech",
+                "Climate Tech Startups",
+                "Energy Tech Startups",
+                "Sustainable Technology",
+                "Green Tech",
+                "Renewable Energy",
+                "Grid Infrastructure",
+                "Energy Storage",
+                "Carbon Reduction",
+                "Climate Policy",
+                "Environmental Policy",
+                "Climate Innovation",
+                "Energy Innovation",
+                "Startup Ecosystem",
+                "Venture Capital",
+                "Climate Investment",
+                "Energy Investment",
+                "Youth Leadership",
+                "Women in Tech",
+                "Women in Climate",
+                "Silicon Valley",
+                "Hacker House Movement"
+              ],
+              "hasOccupation": [
+                {
+                  "@type": "Occupation",
+                  "name": "Climate Activist",
+                  "description": "Leading climate education and policy initiatives"
+                },
+                {
+                  "@type": "Occupation",
+                  "name": "Climate Tech Entrepreneur",
+                  "description": "Working on climate and energy tech startups"
+                },
+                {
+                  "@type": "Occupation",
+                  "name": "Student",
+                  "description": "Computer Science + Energy Science & Engineering at Stanford"
+                }
               ],
               "sameAs": [
                 "https://www.linkedin.com/in/danica-sun-72a8b522a/"
+              ],
+              "worksFor": [
+                {
+                  "@type": "Organization",
+                  "name": "Stanford Climate Week",
+                  "role": "Leader"
+                }
               ]
             })
           }}
