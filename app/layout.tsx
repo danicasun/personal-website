@@ -84,13 +84,13 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/d-logo.png?v=2', type: 'image/png' },
-      { url: '/d-logo.png?v=2', sizes: '32x32', type: 'image/png' },
-      { url: '/d-logo.png?v=2', sizes: '16x16', type: 'image/png' },
+      { url: '/d-logo.png?v=3', type: 'image/png' },
+      { url: '/d-logo.png?v=3', sizes: '32x32', type: 'image/png' },
+      { url: '/d-logo.png?v=3', sizes: '16x16', type: 'image/png' },
     ],
-    shortcut: '/d-logo.png?v=2',
+    shortcut: '/d-logo.png?v=3',
     apple: [
-      { url: '/d-logo.png?v=2', sizes: '180x180', type: 'image/png' },
+      { url: '/d-logo.png?v=3', sizes: '180x180', type: 'image/png' },
     ],
   },
   verification: {
@@ -106,10 +106,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" sizes="32x32" href="/d-logo.png?v=2" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/d-logo.png?v=2" />
-        <link rel="shortcut icon" href="/d-logo.png?v=2" />
-        <link rel="apple-touch-icon" href="/d-logo.png?v=2" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/d-logo.png?v=3" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/d-logo.png?v=3" />
+        <link rel="shortcut icon" href="/d-logo.png?v=3" />
+        <link rel="apple-touch-icon" href="/d-logo.png?v=3" />
         
         {/* Structured Data for SEO */}
         <script

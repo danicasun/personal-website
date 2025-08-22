@@ -187,3 +187,13 @@ a {
 ::-webkit-scrollbar-thumb:hover {
   background: #6b8c75;
 }
+
+/* Favicon Transparency Fix */
+link[rel*="icon"] {
+  background: transparent !important;
+}
+
+/* Ensure PNG transparency */
+img[src*="d-logo.png"] {
+  background: transparent !important;
+}
