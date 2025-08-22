@@ -7,14 +7,14 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="container mx-auto px-8 py-16">
-        <div className="flex flex-col lg:flex-row items-end gap-16 max-w-7xl mx-auto">
+        <div className="max-w-4xl mx-auto">
           {/* Text content */}
-          <div className="flex-1 space-y-6">
+          <div className="space-y-6">
             <h1 className="text-6xl mb-8 lg:text-9xl text-left font-light animate-fade-in-up">
               Danica Sun
             </h1>
 
-            <div className="space-y-5 text-lg leading-8 max-w-4xl">
+            <div className="space-y-5 text-lg leading-8">
               <p className="animate-fade-in-up animation-delay-100 opacity-0">I grew up in Chicago.</p>
               <p className="animate-fade-in-up animation-delay-200 opacity-0">
                 I went to a{" "}
@@ -116,18 +116,6 @@ export default function Home() {
               </p>
 
               <p className="animate-fade-in-up animation-delay-1200 opacity-0 text-xl font-medium text-green-700">I turned 19 this summer. Follow along on my last year as a teenager.</p>
-            </div>
-          </div>
-
-          {/* Image */}
-          <div className="flex-shrink-0 lg:w-96 animate-fade-in-left animation-delay-500 opacity-0">
-            <div className="relative group">
-              <img
-                src="/danica-illustration-bw.png"
-                alt="Artistic black and white illustration of Danica Sun speaking into a microphone"
-                className="w-full h-auto max-w-sm lg:max-w-none transition-transform duration-700 group-hover:scale-105"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-green-50/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-lg"></div>
             </div>
           </div>
         </div>
