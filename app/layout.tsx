@@ -196,8 +196,8 @@ export default function RootLayout({
               "worksFor": [
                 {
                   "@type": "Organization",
-                  "name": "Stanford Climate Week",
-                  "role": "Leader"
+                  "name": "Insitu Energy",
+                  "role": "Full Stack Engineer"
                 }
               ]
             })
