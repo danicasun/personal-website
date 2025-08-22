@@ -15,8 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Danica Sun",
-  description: "Climate activist, Stanford student, and advocate for environmental justice. Leading Stanford Climate Week, working on climate tech and energy tech startups, and part of the female hacker house movement in Silicon Valley.",
-  generator: 'v0.app',
+  description: "Climate activist, Stanford student, and energy tech entrepreneur. Leading Stanford Climate Week, working on climate tech and energy tech startups, and part of the female hacker house movement in Silicon Valley.",
   keywords: [
     "Danica Sun",
     "climate activist",
@@ -64,23 +63,23 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://www.danicasun.com",
     siteName: "Danica Sun",
-    title: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
+    title: "Danica Sun - CS + Energy + Startups at Stanford",
     description: "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley. Expert in climate innovation and sustainable technology.",
     images: [
       {
         url: "/d-logo.png",
         width: 512,
         height: 512,
-        alt: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
+        alt: "Danica Sun - CS + Energy + Startups at Stanford",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "Danica Sun - Climate Tech Entrepreneur & Stanford Student",
+    title: "Danica Sun - CS + Energy + Startups at Stanford",
     description: "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley.",
     images: ["/d-logo.png"],
-    creator: "@danicasun",
+    creator: "@danicasun_",
   },
   icons: {
     icon: [
@@ -94,7 +93,7 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: "your-google-verification-code", // Replace with your actual Google Search Console verification code
+    google: "6QKKUFznL0XGUi52RVhPEHyiI8gru_ygVvIGXnj7NsA",
   },
 }
 
@@ -122,7 +121,7 @@ export default function RootLayout({
               "url": "https://www.danicasun.com",
               "image": "https://www.danicasun.com/d-logo.png",
               "description": "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley.",
-              "jobTitle": "Climate Tech Entrepreneur & Student",
+              "jobTitle": "CS + Energy + Startups at Stanford",
               "alumniOf": {
                 "@type": "Organization",
                 "name": "Stanford University"

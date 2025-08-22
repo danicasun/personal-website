@@ -29,7 +29,7 @@ export default function Projects() {
 
       <div className="container mx-auto px-8 py-16">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl font-light mb-12">Projects</h2>
+          <h1 className="text-5xl font-light mb-12">Projects</h1>
 
           {/* Projects Grid */}
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
