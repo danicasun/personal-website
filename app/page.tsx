@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="container mx-auto px-8 py-16">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-4xl">
           {/* Text content */}
           <div className="space-y-6">
             <h1 className="text-6xl mb-8 lg:text-9xl text-left font-light animate-fade-in-up">
