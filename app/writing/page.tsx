@@ -59,7 +59,7 @@ export default function Writing() {
                 >
                   Substack
                 </a>{" "}
-                for updates on my writing and climate activism work.
+                for updates on my journey exploring the intersection of technology, sustainability, and startups.
               </p>
             </div>
           </div>

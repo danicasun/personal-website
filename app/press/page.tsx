@@ -14,7 +14,7 @@ export default function Press() {
       title: "FOX 32 Voices of Change: Danica Sun",
       source: "FOX 32 Chicago",
       date: "December 2023",
-      description: "Television interview youth leadership initiatives and my role at COP28.",
+      description: "Television spotlight on my youth leadership initiatives and role at COP28, the annual United Nations climate summit.",
       link: "https://www.fox32chicago.com/video/1377345",
       linkText: "Watch video"
     },
@@ -22,13 +22,13 @@ export default function Press() {
       title: "Chicago high schooler among 6 area activists who will give young people a voice at global climate summit in Dubai",
       source: "Chicago Tribune",
       date: "December 2023",
-      description: "Featured as one of six Chicago-area activists representing young voices at the global climate summit in Dubai.",
+      description: "Featured on my work as a youth delegate at COP28, speaking on panels, engaging in roundtable discussions, and more.",
       link: "https://www.chicagotribune.com/2023/12/04/chicago-high-schooler-among-6-area-activists-who-will-give-young-people-a-voice-at-global-climate-summit-in-dubai/",
       linkText: "Read article"
     },
     {
       title: "Podcast Interview on Climate Action",
-      source: "Spotify Podcast",
+      source: "NPR Chicago Radio",
       date: "August 2023",
       description: "In-depth podcast discussion about climate activism, youth leadership, and environmental policy.",
       link: "https://open.spotify.com/episode/0FpQApIHpaZBJnXujnRnZt?si=wXEXN_IaSdu4VselzMPeNw",

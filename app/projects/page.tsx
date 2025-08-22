@@ -3,7 +3,7 @@ import Navigation from "@/components/navigation"
 export default function Projects() {
   const projects = [
     {
-      title: "PriorityQueue - Hackathon Project",
+      title: "PriorityQueue - TreeHacks Winner",
       description: "Tackling the U.S. electricity grid interconnection queue. Developed a user-centric platform that visualizes geospatial data of generation stations, manages each developer's projects, and organizes said projects into clusters using proprietary algorithms.",
       link: "https://devpost.com/software/priorityqueue#updates",
       linkText: "View on Devpost",
