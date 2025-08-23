@@ -3,7 +3,7 @@ import Navigation from "@/components/navigation"
 export default function Projects() {
   const projects = [
     {
-      title: "Climactic Climate x AI Market Map",
+      title: "Climate x AI Market Map",
       description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
       link: "https://www.climactic.vc/climate-ai-market",
       linkText: "View Market Map",

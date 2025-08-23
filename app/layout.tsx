@@ -83,13 +83,13 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/d-logo.png?v=3', type: 'image/png' },
-      { url: '/d-logo.png?v=3', sizes: '32x32', type: 'image/png' },
-      { url: '/d-logo.png?v=3', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon.ico', type: 'image/x-icon' },
+      { url: '/favicon.ico', sizes: '32x32', type: 'image/x-icon' },
+      { url: '/favicon.ico', sizes: '16x16', type: 'image/x-icon' },
     ],
-    shortcut: '/d-logo.png?v=3',
+    shortcut: '/favicon.ico',
     apple: [
-      { url: '/d-logo.png?v=3', sizes: '180x180', type: 'image/png' },
+      { url: '/favicon.ico', sizes: '180x180', type: 'image/x-icon' },
     ],
   },
   verification: {
