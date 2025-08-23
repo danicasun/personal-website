@@ -3,6 +3,13 @@ import Navigation from "@/components/navigation"
 export default function Projects() {
   const projects = [
     {
+      title: "Climactic Climate x AI Market Map",
+      description: "Helping Climactic develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
+      link: "https://www.climactic.vc/climate-ai-market",
+      linkText: "View Market Map",
+      tags: ["Climate Tech", "AI", "Market Intelligence", "Sustainability"]
+    },
+    {
       title: "PriorityQueue - TreeHacks Winner",
       description: "Tackling the U.S. electricity grid interconnection queue. Developed a user-centric platform that visualizes geospatial data of generation stations, manages each developer's projects, and organizes said projects into clusters using proprietary algorithms.",
       link: "https://devpost.com/software/priorityqueue#updates",
