@@ -3,10 +3,10 @@ import Navigation from "@/components/navigation"
 export default function Press() {
   const pressItems = [
     {
-      title: "The Rise of the Female Hacker House",
+      title: "8 Women, 4 Bedrooms and 1 Cause: Breaking A.I.’s Glass Ceiling",
       source: "The New York Times",
       date: "August 2025",
-      description: "Featured in a major New York Times article about the growing movement of female hacker houses in Silicon Valley, highlighting the AI and tech innovation happening at FoundHer House.",
+      description: "Featured on the front page of New York Times Technology in a spotlight about the growing movement of female hacker houses in Silicon Valley, highlighting the AI and tech innovation happening at FoundHer House.",
       link: "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html?unlocked_article_code=1.gU8.MhpM.D_RQ1EXJiIBn&smid=nytcore-ios-share&referringSource=articleShare",
       linkText: "Read article"
     },
@@ -14,7 +14,7 @@ export default function Press() {
       title: "FoundHer House is making a splash in Silicon Valley",
       source: "USA Today",
       date: "August 2025",
-      description: "Featured in national coverage of women in tech and Silicon Valley hacker house communities.",
+      description: "Featured story on the front page of USA Today in an article on women in tech and Silicon Valley hacker house communities.",
       link: "https://www.usatoday.com/story/money/2025/08/20/silicon-valley-tech-women-hacker-houses/85521246007/",
       linkText: "Read article"
     },
@@ -22,7 +22,7 @@ export default function Press() {
       title: "FOX 32 Voices of Change: Danica Sun",
       source: "FOX 32 Chicago",
       date: "December 2023",
-      description: "Television spotlight on my youth leadership initiatives and role at COP28, the annual United Nations climate summit.",
+      description: "Television profile on my youth leadership initiatives and role at COP28, the annual United Nations climate summit.",
       link: "https://www.fox32chicago.com/video/1377345",
       linkText: "Watch video"
     },
@@ -35,10 +35,10 @@ export default function Press() {
       linkText: "Read article"
     },
     {
-      title: "Podcast Interview on Climate Action",
+      title: "Youth Climate Activists Scored A Major Win In Montana. Could Illinois Be Next?",
       source: "NPR Chicago Radio",
       date: "August 2023",
-      description: "In-depth podcast discussion about climate activism, youth leadership, and environmental policy.",
+      description: "Held v. Montana is the first lawsuit of its kind to go to trial, with plaintiffs ranging from age 5 to age 22. It’s also a landmark ruling: climate change must now be considered when approving or renewing future fossil fuel projects in the state. Reset gets reaction from Danica Sun and Natasha Bahtia, youth climate activists in Illinois, and what they’re working on here.",
       link: "https://open.spotify.com/episode/0FpQApIHpaZBJnXujnRnZt?si=wXEXN_IaSdu4VselzMPeNw",
       linkText: "Listen on Spotify"
     },
@@ -54,7 +54,7 @@ export default function Press() {
       title: "Chicago's youth takes part in global climate strike targeting fossil fuel funding",
       source: "Chicago Tribune",
       date: "March 2023",
-      description: "Coverage of youth-led climate strike participation and advocacy against fossil fuel funding.",
+      description: "Coverage of a climate strike and advocacy against fossil fuel funding I led with Fridays For Future Chicago.",
       link: "https://www.chicagotribune.com/2023/03/03/chicagos-youth-takes-part-in-global-climate-strike-targeting-fossil-fuel-funding/",
       linkText: "Read article"
     },
@@ -62,7 +62,7 @@ export default function Press() {
       title: "Chicago youth protest against climate change in downtown rally",
       source: "Chicago Tribune",
       date: "September 2023",
-      description: "Featured in coverage of downtown Chicago climate change rally and youth protest organization.",
+      description: "Featured in coverage of a downtown Chicago climate change rally I led with Fridays For Future Chicago.",
       link: "https://www.chicagotribune.com/2023/09/15/chicago-youth-protest-against-climate-change-in-downtown-rally/",
       linkText: "Read article"
     }
