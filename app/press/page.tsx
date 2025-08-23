@@ -3,6 +3,14 @@ import Navigation from "@/components/navigation"
 export default function Press() {
   const pressItems = [
     {
+      title: "The Rise of the Female Hacker House",
+      source: "The New York Times",
+      date: "August 2025",
+      description: "Featured in a major New York Times article about the growing movement of female hacker houses in Silicon Valley, highlighting the AI and tech innovation happening at FoundHer House.",
+      link: "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html?unlocked_article_code=1.gU8.MhpM.D_RQ1EXJiIBn&smid=nytcore-ios-share&referringSource=articleShare",
+      linkText: "Read article"
+    },
+    {
       title: "FoundHer House is making a splash in Silicon Valley",
       source: "USA Today",
       date: "August 2025",
