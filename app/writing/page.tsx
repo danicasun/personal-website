@@ -4,10 +4,9 @@ export default function Writing() {
   const articles = [
     {
       title: "Why the Most Powerful Climate Startups Don't Look Like Climate Startups",
-      excerpt: "Most climate startups pitch themselves on impact. 'We'll cut emissions.' 'We'll save the planet.' The problem? That's not why most people, or companies, change their behavior. Impact never has and never will be the strongest motivator for the scale of change we need.",
+      excerpt: "Many climate startups pitch themselves on impact. 'We'll cut emissions.' 'We'll save the planet.' The problem? That's not why most people, or companies, change their behavior. Impact never has and never will be the strongest motivator for the scale of change we need.",
       date: "August 2025",
-      readTime: "5 min read",
-      status: "Coming Soon"
+      readTime: "5 min read"
     }
   ]
 
@@ -39,7 +38,6 @@ export default function Writing() {
                 </p>
                 
                 <div className="flex items-center justify-between">
-                  <span className="text-[#82B590] font-medium">{article.status}</span>
                   <a href="#" className="text-[#82B590] hover:text-green-600 transition-colors duration-300 text-lg">
                     Coming Soon →
                   </a>

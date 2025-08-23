@@ -121,7 +121,7 @@ export default function Press() {
           <div className="mt-16 p-6 bg-white border border-[#82B590] rounded-lg">
             <p className="text-gray-600 text-sm italic text-center">
               Not Linked: NBC Chicago News Segment, NPR Chicago Radio Interviews, the Daily Northwestern Article, the
-              Chicago Sun-Times Article
+              Chicago Sun-Times Article, and more.
             </p>
           </div>
         </div>
