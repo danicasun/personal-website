@@ -4,29 +4,29 @@ export default function Projects() {
   const projects = [
     {
       title: "Climactic Climate x AI Market Map",
-      description: "Helping Climactic develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
+      description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
       link: "https://www.climactic.vc/climate-ai-market",
       linkText: "View Market Map",
-      tags: ["Climate Tech", "AI", "Market Intelligence", "Sustainability"]
+      tags: ["Sourcing", "Market Intelligence"]
     },
     {
       title: "PriorityQueue - TreeHacks Winner",
       description: "Tackling the U.S. electricity grid interconnection queue. Developed a user-centric platform that visualizes geospatial data of generation stations, manages each developer's projects, and organizes said projects into clusters using proprietary algorithms.",
       link: "https://devpost.com/software/priorityqueue#updates",
       linkText: "View on Devpost",
-      tags: ["Energy Tech", "Data Visualization", "Grid Infrastructure"]
+      tags: ["Data Visualization", "Web Development"]
     },
     {
       title: "EcoSort",
-      description: "An app that uses ML image recognition to identify whether an item should be composted, recycled, or belongs in the landfill, in order to tackle the issue of compost contamination.",
+      description: "An app that uses image recognition to identify whether an item should be composted, recycled, or belongs in the landfill, tackling the expensive and harmful issue of compost contamination.",
       link: "https://drive.google.com/file/d/1jNO8bsFaV-MftNfmzfm8wK01zjpf67Mv/view",
       linkText: "View Demo Video",
-      tags: ["Machine Learning", "Environmental Tech", "Computer Vision"]
+      tags: ["Machine Learning", "Computer Vision"]
     },
     {
       title: "Stanford Course Semantic Search Engine",
       description: "Advanced search engine implementation using semantic analysis to improve course discovery and matching for Stanford University courses.",
-      tags: ["Natural Language Processing", "Search Technology", "Education Tech"]
+      tags: ["Natural Language Processing", "Search Technology"]
     }
   ]
 
