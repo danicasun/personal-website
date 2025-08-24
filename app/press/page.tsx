@@ -73,15 +73,15 @@ export default function Press() {
       <Navigation isHomePage={false} />
 
       <div className="container mx-auto px-8 py-16">
-        <div className="max-w-6xl">
-        <h1 className="text-5xl font-light mb-12">Press</h1>
+        <div className="max-w-4xl">
+          <h1 className="text-6xl lg:text-9xl font-light mb-16">Press</h1>
 
-          {/* Press Items Grid */}
-          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          {/* Press Items */}
+          <div className="space-y-8">
             {pressItems.map((item) => (
               <div
                 key={item.title}
-                className="bg-white border border-[#82B590] rounded-lg p-6 hover:shadow-md transition-shadow duration-300"
+                className="border-b border-green-100 pb-8 last:border-b-0"
               >
                 <div className="mb-4">
                   <div className="flex items-center gap-2 mb-3 text-sm text-gray-600">
@@ -89,19 +89,19 @@ export default function Press() {
                     <span className="text-gray-400">•</span>
                     <span className="text-[#82B590] font-medium">{item.source}</span>
                   </div>
-                  <h3 className="text-lg font-medium mb-3 leading-tight">
+                  <h3 className="text-2xl font-medium mb-4 leading-tight text-green-800">
                     <a
                       href={item.link}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="hover:text-[#82B590] transition-colors"
+                      className="hover:text-[#82B590] transition-colors duration-300"
                     >
                       {item.title}
                     </a>
                   </h3>
                 </div>
 
-                <p className="text-gray-600 mb-4 leading-relaxed line-clamp-3">
+                <p className="text-lg leading-8 text-gray-700 mb-6">
                   {item.description}
                 </p>
 
@@ -109,20 +109,20 @@ export default function Press() {
                   href={item.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block text-[#82B590] hover:text-green-600 transition-colors text-sm"
+                  className="inline-block text-[#82B590] hover:text-green-600 transition-colors duration-300 underline decoration-2 underline-offset-4 hover:decoration-green-600 text-lg"
                 >
                   {item.linkText} →
                 </a>
               </div>
             ))}
-          </div>
 
-          {/* Additional Coverage Note */}
-          <div className="mt-16 p-6 bg-white border border-[#82B590] rounded-lg">
-            <p className="text-gray-600 text-sm italic text-center">
-              Not Linked: NBC Chicago News Segment, NPR Chicago Radio Interviews, the Daily Northwestern Article, the
-              Chicago Sun-Times Article, and more.
-            </p>
+            {/* Additional Coverage Note */}
+            <div className="pt-8 border-t border-green-100">
+              <p className="text-gray-600 text-sm italic text-center">
+                Not Linked: NBC Chicago News Segment, NPR Chicago Radio Interviews, the Daily Northwestern Article, the
+                Chicago Sun-Times Article, and more.
+              </p>
+            </div>
           </div>
         </div>
       </div>
