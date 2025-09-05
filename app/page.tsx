@@ -114,11 +114,20 @@ export default function Home() {
                 </a>
                 .
               </p>
+              <p className="animate-fade-in-up animation-delay-1150 opacity-0">
+                For the past six months, I was the only hire at a clean energy and infrastructure startup, building out the product as a full-stack engineer.
+              </p>
+              <p className="animate-fade-in-up animation-delay-1200 opacity-0">
+                I sat in the front seat with the founders—through pivots, a seed raise, and countless carpools from SF to Stanford.
+              </p>
+              <p className="animate-fade-in-up animation-delay-1250 opacity-0">
+                Now, I&apos;m helping Stanford Research Computing develop an optimization framework to cut the energy footprint of their data center compute operations.
+              </p>
 
-              <p className="animate-fade-in-up animation-delay-1200 opacity-0 text-xl font-medium text-green-700">I turned 19 this summer. Follow along on my last year as a teenager.</p>
+              <p className="animate-fade-in-up animation-delay-1300 opacity-0 text-xl font-medium text-green-700">I turned 19 this summer. Follow along on my last year as a teenager.</p>
               
               {/* Social Links */}
-              <div className="flex items-center gap-6 pt-8 animate-fade-in-up animation-delay-1300 opacity-0">
+              <div className="flex items-center gap-6 pt-8 animate-fade-in-up animation-delay-1350 opacity-0">
                 <a
                   href="https://www.linkedin.com/in/danica-sun-72a8b522a/"
                   target="_blank"
