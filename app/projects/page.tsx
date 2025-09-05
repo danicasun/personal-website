@@ -3,6 +3,13 @@ import Navigation from "@/components/navigation"
 export default function Projects() {
   const projects = [
     {
+      title: "Stanford Sherlock",
+      description: "This project analyzes a year of SLURM sacct job data from Stanford's Sherlock cluster—covering ~860,000 jobs—to produce anonymized JSON summaries of user activity, resource usage, job outcomes, and temporal patterns that power a public dashboard",
+      link: "https://stanfordsherlockcomputing.vercel.app/",
+      linkText: "View Dashboard",
+      tags: ["Data Analysis", "SLURM", "Dashboard"]
+    },
+    {
       title: "Climate x AI Market Map",
       description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
       link: "https://www.climactic.vc/climate-ai-market",
