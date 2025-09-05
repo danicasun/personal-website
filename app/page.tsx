@@ -121,7 +121,16 @@ export default function Home() {
                 I sat in the front seat with the founders—through pivots, a seed raise, and countless carpools from SF to Stanford.
               </p>
               <p className="animate-fade-in-up animation-delay-1250 opacity-0">
-                Now, I&apos;m helping Stanford Research Computing develop an optimization framework to cut the energy footprint of their data center compute operations.
+                Now, I&apos;m helping{" "}
+                <a
+                  href="https://srcc.stanford.edu/about"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#82B590] hover:text-green-600 transition-colors duration-300 underline decoration-2 underline-offset-4 hover:decoration-green-600"
+                >
+                  Stanford Research Computing
+                </a>{" "}
+                develop an optimization framework to cut the energy footprint of their data center compute operations.
               </p>
 
               <p className="animate-fade-in-up animation-delay-1300 opacity-0 text-xl font-medium text-green-700">I turned 19 this summer. Follow along on my last year as a teenager.</p>
