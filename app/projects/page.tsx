@@ -7,28 +7,28 @@ export default function Projects() {
       description: "This project analyzes a year of SLURM sacct job data from Stanford's Sherlock cluster—covering ~860,000 jobs—to produce anonymized JSON summaries of user activity, resource usage, job outcomes, and temporal patterns that power a public dashboard",
       link: "https://stanfordsherlockcomputing.vercel.app/",
       linkText: "View Dashboard",
-      tags: ["Data Analysis", "SLURM", "Dashboard"]
+      tags: ["Python Data Analysis", "Full-Stack Web (Next.js, TypeScript)", "HPC (SLURM/sacct)"]
     },
     {
       title: "Climate x AI Market Map",
       description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
       link: "https://www.climactic.vc/climate-ai-market",
       linkText: "View Market Map",
-      tags: ["Sourcing", "Market Intelligence"]
+      tags: ["Sourcing", "Market Intelligence", "Strategic Research"]
     },
     {
       title: "PriorityQueue - TreeHacks Winner",
       description: "Tackling the U.S. electricity grid interconnection queue. Developed a user-centric platform that visualizes geospatial data of generation stations, manages each developer's projects, and organizes said projects into clusters using proprietary algorithms.",
       link: "https://devpost.com/software/priorityqueue#updates",
       linkText: "View on Devpost",
-      tags: ["Data Visualization", "Web Development"]
+      tags: ["Full-Stack Web (Next.js, MongoDB)", "Geospatial Analytics", "AI (RAG, OpenAI API, Elastic)"]
     },
     {
       title: "EcoSort",
       description: "An app that uses image recognition to identify whether an item should be composted, recycled, or belongs in the landfill, tackling the expensive and harmful issue of compost contamination.",
       link: "https://drive.google.com/file/d/1jNO8bsFaV-MftNfmzfm8wK01zjpf67Mv/view",
       linkText: "View Demo Video",
-      tags: ["Machine Learning", "Computer Vision"]
+      tags: ["Full-Stack Mobile App", "Computer Vision"]
     },
     {
       title: "Stanford Course Semantic Search Engine",
