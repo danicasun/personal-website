@@ -120,8 +120,8 @@ export default function RootLayout({
               "name": "Danica Sun",
               "url": "https://www.danicasun.com",
               "image": "https://www.danicasun.com/d-logo.png",
-              "description": "Climate activist, Stanford student, and climate tech entrepreneur. Leading Stanford Climate Week, working on energy tech startups, and part of the female hacker house movement in Silicon Valley.",
-              "jobTitle": "CS + Energy + Startups at Stanford",
+              "description": "Stanford student tackling climate change through technology and systematic change.",
+              "jobTitle": "CS + Energy at Stanford",
               "alumniOf": {
                 "@type": "Organization",
                 "name": "Stanford University"
@@ -135,7 +135,7 @@ export default function RootLayout({
                 {
                   "@type": "Organization",
                   "name": "Stanford ASES",
-                  "role": "Member"
+                  "role": "Director of Partnerships"
                 },
                 {
                   "@type": "Organization",
