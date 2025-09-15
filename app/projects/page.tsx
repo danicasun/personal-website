@@ -11,10 +11,10 @@ export default function Projects() {
     },
     {
       title: "XiaoPrompt - HackMIT 2025",
-      description: "We reduce token usage by 53% while maintaining over 96% model output accuracy. The raw text prompt is first distilled by a relatively lightweight LLM (Claude Haiku) before being translated into Chinese, which is 25-40% more token-efficient than English. We built an API that integrates seamlessly into any AI workflow and a dashboard displaying your reduced carbon footprint! (The Chinese feature is toggleable, in case developers want to ensure their prompts are English. For prompting image generation models, for example, the language of a prompt matters less.) Won 2nd place in the Sustainable Smart AI track at HackMIT 2025.",
+      description: "This project lowers the cost and carbon footprint of GenAI by compressing prompts through a lightweight LLM and optional Chinese translation, reducing token usage by over 50% without sacrificing accuracy. Awarded 2nd place in the Sustainable Smart AI track at HackMIT 2025.",
       link: "https://xiaoprompt.vercel.app/",
       linkText: "View Project",
-      tags: ["AI Optimization", "API Development", "Carbon Footprint Tracking", "HackMIT 2025"]
+      tags: ["API Development", "Full-Stack Web (React, Next.js, Supabase)", "Prompt Optimization"]
     },
     {
       title: "Climate x AI Market Map",
@@ -24,7 +24,7 @@ export default function Projects() {
       tags: ["Sourcing", "Market Intelligence", "Strategic Research"]
     },
     {
-      title: "PriorityQueue - TreeHacks Winner",
+      title: "PriorityQueue - TreeHacks 2025 Winner",
       description: "Tackling the U.S. electricity grid interconnection queue. Developed a user-centric platform that visualizes geospatial data of generation stations, manages each developer's projects, and organizes said projects into clusters using proprietary algorithms.",
       link: "https://devpost.com/software/priorityqueue#updates",
       linkText: "View on Devpost",
