@@ -10,6 +10,13 @@ export default function Projects() {
       tags: ["Python Data Analysis", "Full-Stack Web (Next.js, TypeScript)", "HPC (SLURM/sacct)"]
     },
     {
+      title: "XiaoPrompt - HackMIT 2025",
+      description: "We reduce token usage by 53% while maintaining over 96% model output accuracy. The raw text prompt is first distilled by a relatively lightweight LLM (Claude Haiku) before being translated into Chinese, which is 25-40% more token-efficient than English. We built an API that integrates seamlessly into any AI workflow and a dashboard displaying your reduced carbon footprint! (The Chinese feature is toggleable, in case developers want to ensure their prompts are English. For prompting image generation models, for example, the language of a prompt matters less.)",
+      link: "https://xiaoprompt.vercel.app/",
+      linkText: "View Project",
+      tags: ["AI Optimization", "API Development", "Carbon Footprint Tracking", "HackMIT 2025"]
+    },
+    {
       title: "Climate x AI Market Map",
       description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
       link: "https://www.climactic.vc/climate-ai-market",
