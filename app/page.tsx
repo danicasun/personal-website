@@ -62,7 +62,7 @@ export default function Home() {
                 >
                   spoken
                 </a>{" "}
-                at the UN Climate Summit, at the Parliament of the World&apos;s Religions, and on national press.
+                at the United Nations Climate Summit, at the Parliament of the World&apos;s Religions, and on national press.
               </p>
               <p className="animate-fade-in-up animation-delay-800 opacity-0">
                 I represented Illinois at{" "}
