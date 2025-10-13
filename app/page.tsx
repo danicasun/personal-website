@@ -15,7 +15,7 @@ export default function Home() {
             </h1>
 
             <div className="space-y-5 text-lg leading-8">
-              <p className="animate-fade-in-up animation-delay-100 opacity-0">I grew up in Chicago.</p>
+              <p className="animate-fade-in-up animation-delay-100 opacity-0">I grew up by Chicago.</p>
               <p className="animate-fade-in-up animation-delay-200 opacity-0">
                 I went to a{" "}
                 <a
@@ -30,7 +30,7 @@ export default function Home() {
               </p>
               <p className="animate-fade-in-up animation-delay-300 opacity-0">I now study Computer Science + Energy Science &amp; Engineering at Stanford.</p>
               <p className="animate-fade-in-up animation-delay-400 opacity-0">I live and breathe climate, and have spent the past third of my life working in it.</p>
-              <p className="animate-fade-in-up animation-delay-500 opacity-0">I grew up insanely shy, but climate change compelled me to find my voice.</p>
+              <p className="animate-fade-in-up animation-delay-500 opacity-0">I was insanely shy at one point, but climate change compelled me to find my voice.</p>
               <p className="animate-fade-in-up animation-delay-600 opacity-0">
                 I{" "}
                 <a
@@ -62,8 +62,7 @@ export default function Home() {
                 >
                   spoken
                 </a>{" "}
-                at the UN Climate Summit, at the Parliament of the World&apos;s Religions (alongside Jane Goodall, Nancy
-                Pelosi, etc.), and on national press.
+                at the UN Climate Summit, at the Parliament of the World&apos;s Religions, and on national press.
               </p>
               <p className="animate-fade-in-up animation-delay-800 opacity-0">
                 I represented Illinois at{" "}
