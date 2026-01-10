@@ -15,7 +15,7 @@ export default function Home() {
             </h1>
 
             <div className="space-y-5 text-lg leading-8">
-              <p className="animate-fade-in-up animation-delay-100 opacity-0">I grew up by Chicago.</p>
+              <p className="animate-fade-in-up animation-delay-100 opacity-0">I grew up in Chicago.</p>
               <p className="animate-fade-in-up animation-delay-200 opacity-0">
                 I went to a{" "}
                 <a
@@ -114,10 +114,10 @@ export default function Home() {
                 .
               </p>
               <p className="animate-fade-in-up animation-delay-1150 opacity-0">
-                For the past six months, I was the first hire at a clean energy and infrastructure startup, building out the product as a full-stack engineer.
+                For the past six months, I was the first hire at an a16z-backed energy and infrastructure startup, building out the product as a full-stack engineer.
               </p>
               <p className="animate-fade-in-up animation-delay-1200 opacity-0">
-                I sat in the front seat with the founders—through pivots, a seed raise, and countless carpools from SF to Stanford.
+                I sat in the front seat with the founders, through pivots, a seed raise, and countless carpools from SF to Stanford.
               </p>
               <p className="animate-fade-in-up animation-delay-1250 opacity-0">
                 Now, I&apos;m developing an optimization framework for{" "}
