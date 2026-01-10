@@ -3,6 +3,11 @@ import Navigation from "@/components/navigation"
 export default function Projects() {
   const projects = [
     {
+      title: "Piezoelectric Energy-Harvesting Dance Floor",
+      description: "Leading a team to design and build an interactive dance floor using piezoelectric technology to generate electricity from foot traffic, powering LED 'Infinity Mirrors'. To be displayed at TreeHacks.",
+      tags: ["Piezoelectric Sensors", "Embedded Systems", "Power Electronics"]
+    },
+    {
       title: "Stanford Sherlock",
       description: "This project analyzes a year of SLURM sacct job data from Stanford's Sherlock cluster—covering ~860,000 jobs—to produce anonymized JSON summaries of user activity, resource usage, job outcomes, and temporal patterns that power a public dashboard",
       link: "https://stanfordsherlockcomputing.vercel.app/",
@@ -18,7 +23,7 @@ export default function Projects() {
     },
     {
       title: "Climate x AI Market Map",
-      description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies working at the intersection of artificial intelligence and climate solutions across various sectors including energy, construction, agriculture, and more.",
+      description: "Helping Climactic VC develop their comprehensive Climate x AI Market map, which showcases over 200+ companies applying AI to build solutions across various sectors including energy, construction, and agriculture.",
       link: "https://www.climactic.vc/climate-ai-market",
       linkText: "View Market Map",
       tags: ["Sourcing", "Market Intelligence", "Strategic Research"]
